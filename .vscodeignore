@@ -4,4 +4,4 @@ tests/**
 .gitignore
 *.vsix
 vsc-extension-quickstart.md
-Screenshot*.jpg
+Screens/**
