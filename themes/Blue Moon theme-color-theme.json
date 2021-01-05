@@ -64,13 +64,17 @@
     "editorPane.background": "#14181f",
     "tab.activeBorder": "#14181f",
     "tab.inactiveBackground": "#1e2735",
-    "titleBar.activeBackground": "#1f415c",
+    "titleBar.activeBackground": "#141b22",
     "panel.background": "#14181f",
     "dropdown.listBackground": "#14181f",
     "menu.background": "#14181f",
     "menu.foreground": "#cccccc",
+
+    // Settings
     "settings.numberInputBackground": "#14181f",
     "settings.textInputBackground": "#14181f",
+    "settings.dropdownBackground": "#14181f",
+    "settings.checkboxBackground": "#14181f",
 
     // Notifications
     "notifications.background": "#14181f",

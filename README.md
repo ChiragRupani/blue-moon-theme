@@ -6,8 +6,10 @@
 
 <hr/>
 
-Screenshot:
+Screenshots:
 
-![Blue Moon Theme screenshot](https://raw.githubusercontent.com/ChiragRupani/blue-moon-theme/main/Screenshot.jpg)
+![Blue Moon Theme screenshot1](https://raw.githubusercontent.com/ChiragRupani/blue-moon-theme/main/Screens/Screenshot1.jpg)
+
+![Blue Moon Theme screenshot2](https://raw.githubusercontent.com/ChiragRupani/blue-moon-theme/main/Screens/Screenshot2.jpg)
 
 <hr/>
