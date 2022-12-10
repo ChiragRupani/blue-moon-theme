@@ -4,6 +4,8 @@
 
 ## Clean and Elegant Dark Theme for VS Code
 
+[![Preview in vscode.dev](https://img.shields.io/badge/Preview-vscode.dev-blue)](https://vscode.dev/theme/ChiragRupani.blue-moon-theme)
+
 <hr/>
 
 Screenshots:
