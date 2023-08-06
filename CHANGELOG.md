@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.5]
+
+- Added color for inlay hints
+- Updated token colors
+
 ## [0.0.4]
 
 - Added vscode.dev preview link
