@@ -15,9 +15,9 @@
     "color": "#14181f",
     "theme": "dark"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
-    "vscode": "^1.81.0"
+    "vscode": "^1.94.0"
   },
   "categories": [
     "Themes"
@@ -34,7 +34,7 @@
       {
         "label": "Blue Moon theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Blue Moon theme-color-theme.json"
+        "path": "./themes/blue-moon-theme-color-theme.json"
       }
     ]
   }

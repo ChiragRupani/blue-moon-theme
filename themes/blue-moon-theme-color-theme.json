@@ -55,7 +55,7 @@
     // Editor Groups & Tabs
     "editor.background": "#14181f",
     "editor.foreground": "#d4d4d4",
-    "editor.inactiveSelectionBackground": "#3a3d41",
+    "editor.inactiveSelectionBackground": "#3a3d41df",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editorGroupHeader.tabsBackground": "#13181d",
     "editorIndentGuide.activeBackground1": "#707070",
@@ -531,6 +531,7 @@
         "source.cpp keyword.operator.new",
         "keyword.operator.delete",
         "keyword.other.using",
+        "keyword.other.directive.using",
         "keyword.other.operator",
         "entity.name.operator"
       ],

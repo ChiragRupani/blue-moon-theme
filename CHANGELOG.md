@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.6]
+
+- Removed spaces from file name
+- Minor color improvements
+
 ## [0.0.5]
 
 - Added color for inlay hints
