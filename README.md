@@ -10,8 +10,8 @@
 
 Screenshots:
 
-![Blue Moon Theme screenshot1](https://raw.githubusercontent.com/ChiragRupani/blue-moon-theme/master/Screens/Screenshot1.jpg)
+![Blue Moon Theme screenshot1](https://raw.githubusercontent.com/ChiragRupani/blue-moon-theme/master/Screens/Screenshot1.png)
 
-![Blue Moon Theme screenshot2](https://raw.githubusercontent.com/ChiragRupani/blue-moon-theme/master/Screens/Screenshot2.jpg)
+![Blue Moon Theme screenshot2](https://raw.githubusercontent.com/ChiragRupani/blue-moon-theme/master/Screens/Screenshot2.png)
 
 <hr/>
