@@ -15,7 +15,7 @@
     "color": "#14181f",
     "theme": "dark"
   },
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -27,7 +27,8 @@
     "dark theme",
     "dark blue",
     "clean",
-    "blue moon vscode"
+    "blue moon vscode",
+    "vscode theme"
   ],
   "contributes": {
     "themes": [

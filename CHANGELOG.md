@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.7]
+
+- Added checkbox color
+- Updated screenshots
+
 ## [0.0.6]
 
 - Removed spaces from file name

@@ -7,6 +7,9 @@
     // Base Colors
     "foreground": "#d4d4d4",
 
+    // Checkbox
+    "checkbox.border": "#5B5B5B",
+
     // Dropdown control
     "dropdown.background": "#181d25",
     "dropdown.border": "#1f293a",
@@ -72,6 +75,8 @@
     "titleBar.activeBackground": "#141b22",
     "panel.background": "#14181f",
     "dropdown.listBackground": "#14181f",
+
+    // Menu
     "menu.background": "#14181f",
     "menu.foreground": "#cccccc",
 
@@ -637,6 +642,12 @@
       "scope": "entity.name.label",
       "settings": {
         "foreground": "#C8C8C8"
+      }
+    },
+    {
+      "scope": ["keyword.other.directive.using.cs", "keyword.cs"],
+      "settings": {
+        "foreground": "#46a26b"
       }
     }
   ],
