@@ -643,12 +643,6 @@
       "settings": {
         "foreground": "#C8C8C8"
       }
-    },
-    {
-      "scope": ["keyword.other.directive.using.cs", "keyword.cs"],
-      "settings": {
-        "foreground": "#46a26b"
-      }
     }
   ],
   "semanticTokenColors": {
