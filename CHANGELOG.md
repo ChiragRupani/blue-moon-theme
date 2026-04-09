@@ -1,5 +1,13 @@
 # Change Log
 
+## [0.0.9]
+
+- Improved button background for latest VSCode extensions
+
+## [0.0.9]
+
+- Improved button border for latest VSCode
+
 ## [0.0.8]
 
 - Corrected keyword foreground for C#

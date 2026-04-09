@@ -6,6 +6,7 @@
   "colors": {
     // Base Colors
     "foreground": "#d4d4d4",
+    "disabledForeground": "#565656",
 
     // Checkbox
     "checkbox.border": "#5B5B5B",
@@ -18,6 +19,15 @@
     "input.background": "#14181f",
     "input.border": "#1f293a",
     "input.placeholderForeground": "#a6a69a",
+
+    // Button
+    "button.border": "#1f293a",
+    "extensionButton.background": "#2a2e33",
+    "button.secondaryForeground": "#d7d9da",
+    "extensionButton.border": "#203c6e5c",
+    "button.background": "#2a3347",
+    // "button.foreground": "#fdfdfc",
+    "button.hoverBackground": "#52647e90",
 
     // Scrollbar control
     "scrollbarSlider.activeBackground": "#52647e90",
@@ -51,6 +61,7 @@
     "sideBarSectionHeader.border": "#ccc3",
     "statusBar.background": "#2f415c",
     "statusBarItem.remoteBackground": "#16825d",
+    "statusBar.noFolderBackground": "#393e45",
     "statusBarItem.remoteForeground": "#ffffff",
     "statusBar.focusBorder": "#0078d4",
 
@@ -109,11 +120,7 @@
   },
   "tokenColors": [
     {
-      "scope": [
-        "meta.embedded",
-        "source.groovy.embedded",
-        "string meta.image.inline.markdown"
-      ],
+      "scope": ["meta.embedded", "source.groovy.embedded", "string meta.image.inline.markdown"],
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -139,13 +146,38 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#6A9955"
+        "foreground": "#6F9B60"
       }
     },
     {
       "scope": "constant.language",
       "settings": {
-        "foreground": "#569cd6"
+        "foreground": "#4F8FDD"
+      }
+    },
+    {
+      "name": "HTML/XML tags",
+      "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
+      "settings": {
+        "foreground": "#4F9BDD"
+      }
+    },
+    {
+      "name": "HTML/XML tag punctuation",
+      "scope": [
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html"
+      ],
+      "settings": {
+        "foreground": "#7A828B"
+      }
+    },
+    {
+      "name": "HTML/XML attribute names",
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#90D5FF"
       }
     },
     {
@@ -424,10 +456,7 @@
       }
     },
     {
-      "scope": [
-        "punctuation.section.embedded.begin.php",
-        "punctuation.section.embedded.end.php"
-      ],
+      "scope": ["punctuation.section.embedded.begin.php", "punctuation.section.embedded.end.php"],
       "settings": {
         "foreground": "#569cd6"
       }
